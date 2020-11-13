@@ -1,0 +1,129 @@
+.body{
+  color:#000033
+
+}
+.social{
+ background-color: #2d3092;
+}
+.hr1{
+  text-align:right;
+  float: right;
+  width:1300px;
+  position: absolute;
+}
+           /*nav bar*/
+.nav-link{
+  font-family:"Segoe UI Symbol","Noto Color Emoji";
+  font-size: 15px;
+  font-weight:bold;
+  color:black;
+}
+.nav-link:hover{
+  color:#2d3092;
+}
+            /*search bar*/
+.search{
+  height: 40px;
+  width:200px !important;
+  border-radius: 78px;
+  position: relative;
+}
+.search-img{
+  background-color: #2d3092;
+  border-radius: 50%;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  margin-left: 165px;
+}
+              /*big picture section*/
+  .big-laptop{
+  background-color: #cceeff;
+  margin-bottom: 100px;
+  }
+  .buttons{background-color:#2d3092;
+  margin-top: 150px;
+  border-radius:0;
+  color:#fff;}
+  .buttons:hover{
+    background-color: #1a1aff;
+    color:#fff;
+  }
+                /*first cards section*/
+  .first-cards h6{text-align: center;}
+  /*.first-cards .card-title{color:#2d3092;}
+  .first-cards .card-title:hover{color:#fff;}
+  .first-cards .card:hover
+  {background-color:#2d3092;
+  color:#fff; }*/
+  .first-cards h1{text-align: center;}
+
+  .first-cards .card{color:#2d3092;}
+  .first-cards .card:hover{color:#fff;
+  background-color:#2d3092 }
+
+                /*topics section*/
+  .wrapper{text-align: center;}
+
+  .topics{
+  background-color: #e6ffe6;
+  height:300px;
+  text-align: center;}
+               /*popular courses*/
+  .popular-courses h1,p{
+    text-align: center;
+  }
+  .popular-courses .card-title{color::#000033;
+    font-family: monospace;
+  }
+              /*faculty teachers*/
+  .teachers{
+    background-color: #4d0099;
+  text-align: center;}
+  .teachers h1{
+    text-align: center;
+  }
+             /*know more section*/
+.know-more p,h1,ul{
+  text-align: left;
+  padding:10px;
+  list-style-type: none;
+}
+.know-more p,li{
+  font-size: 20px;
+  line-height: 30px;
+
+}
+.people{
+max-width: 100%;
+}
+           /*news*/
+.news h1{text-align: center;}
+.news h5,h6{text-align: left;}
+          /*footer*/
+footer{
+  background-color: #0b0b1d;
+  color:#fff;
+}
+.email{
+  width:300px;
+  height:35px;
+}
+.subscribe{
+  border-radius: 0;
+}
+.fa-facebook{color: #3b5998;
+width: 60px; height:60px;}
+.fa-twitter{color: #007bff;
+width: 60px; height:60px;}
+.fa-google{color: #bb2205;
+width: 60px; height:60px;}
+.fa-instagram{color: #fa1616;
+width: 60px; height:60px;}
+.fa-youtube{color: #070d59;
+width: 60px; height:60px;}
+footer li{line-height: 60px;
+  font-size: 15px;
+}
+.footer-hr{width:800px;
+border-color: #fff;}
